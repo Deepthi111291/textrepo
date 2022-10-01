@@ -2,6 +2,7 @@ git init->to initialise git
 git status->list all untracked files.
 git add -A->Adding to staging area
 git commit -m "msg"->add from staging area to local repo
+create a remote repository in github
 git remote add name path
 git remote -v
 git status
